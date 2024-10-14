@@ -372,7 +372,7 @@ nav li a.Courses {
 
 /* From Uiverse.io by TimTrayler */
 button {
-  --hover-shadows: 8px 8px 16px #121212, -8px -8px 16px #303030;
+  --hover-shadows: 3px 8px 16px #1212124d, -8px -8px 16px #30303005;
   --accent: #ffffff;
   font-weight: bold;
   letter-spacing: 0.1em;
